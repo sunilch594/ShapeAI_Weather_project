@@ -1,0 +1,8 @@
+Weather of Dhanbad
+___________________________________________________
+Temperature : 31.350000000000023 deg C
+Weather Description : overcast clouds
+Humidity : 60%
+Wind Speed : 4.64kmph
+Date and Time : 23 Jun 2021 | 05:18:52 PM
+___________________________________________________
